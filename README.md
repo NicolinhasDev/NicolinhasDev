@@ -1,5 +1,5 @@
 # 💫 About Me:
-Desenvolvedor Full Stack com experiência em aplicações web, atuando tanto no front-end quanto no back-end. Já trabalhei com tecnologias como HTML, CSS, JavaScript, PHP, MySQL e consumo de APIs, além de automações com cron jobs. Tenho perfil proativo, gosto de entender o problema a fundo e desenvolver soluções eficientes e bem estruturadas. Busco evoluir constantemente, aprender novas tecnologias e entregar valor real através do código.
+Full Stack developer with experience in web applications, acting on both the front-end and the back-end. I have worked with technologies such as HTML, CSS, JavaScript, PHP, MySQL and API consumption, as well as automations with cron jobs. I have a proactive profile, I like to understand the problem in depth and develop efficient and well-structured solutions. I constantly seek to evolve, learn new technologies and deliver real value through code.
 
 
 ## 🌐 Socials:
